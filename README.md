@@ -25,7 +25,7 @@ A simple yet powerful Python-based GUI application to download YouTube videos an
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png) <!-- Replace with your actual screenshot path -->
+![App Screenshot](screenshots/Screenshot%202025-06-19%20152234.png)
 
 ---
 
